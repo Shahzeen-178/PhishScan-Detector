@@ -1,0 +1,42 @@
+# PhishScan Keywords — edit freely, no code changes needed
+# FORMAT: keyword or phrase,tier
+# tier1=3pts (strong phishing signal)
+# tier2=2pts (moderate signal)  
+# tier3=1pt  (weak, only counts if tier1 also present)
+
+# --- TIER 1 (high risk) ---
+verify your account,1
+account suspended,1
+account locked,1
+unusual activity,1
+immediate action required,1
+confirm your identity,1
+update your payment,1
+your account will be closed,1
+security alert,1
+unauthorized access,1
+click here to verify,1
+suspicious login,1
+login attempt,1
+
+# --- TIER 2 (moderate risk) ---
+wire transfer,2
+bank details,2
+credit card,2
+social security,2
+password expired,2
+act now,2
+limited time,2
+congratulations you won,2
+claim your prize,2
+verify now,2
+urgent,2
+action required,2
+
+# --- TIER 3 (weak — only count with tier1 present) ---
+dear customer,3
+update,3
+confirm,3
+notification,3
+account,3
+password,3
