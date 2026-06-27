@@ -1,9 +1,3 @@
-"""
-PhishScan - Phishing Email Detector
-Authors: Irha Batool, Shahzeen Shahbaz
-Dept: SST (CySec), UMT Lahore
-"""
-
 import re
 import email
 import quopri
